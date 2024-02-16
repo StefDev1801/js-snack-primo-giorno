@@ -28,3 +28,15 @@ const radius = 8 //number
 const circle = radius * 2 * PI //number
 
 console.log (circle);
+
+/*Esercizio 3
+Dichiara una variabile chiamata name e assegnale il valore "Carlo".
+Successivamente, modifica il valore della variabile in "Marco".
+Stampa il nuovo valore in console.
+*/
+
+let name = 'Carlo' //string
+
+name = 'Marco' //string
+
+document.writeln (name)
