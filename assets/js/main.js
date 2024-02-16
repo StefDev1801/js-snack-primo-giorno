@@ -40,3 +40,10 @@ let name = 'Carlo'; //string
 name = 'Marco'; //string
 
 document.writeln (name);
+
+//Esercizio 4: Dichiara una variabile chiamata temperature e assegnale il valore 22.5. Successivamente, aumenta il suo valore di 5 e stampa il nuovo valore in console.
+let temperatura = 22.5; //number
+
+temperatura = temperatura + 5 //number
+
+console.log(temperatura);
